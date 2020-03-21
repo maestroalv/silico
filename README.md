@@ -1,6 +1,6 @@
-<p align="center">
-  <title> Hurt ToolKit v1.0.1 Beta</title>
-</p>
+<p align="center"><font color="red" size="6">
+  Hurt ToolKit v1.0.1 Beta
+</p></font>
 
 <center>Hurt ToolKit is a tool for Testing Hacking not for crime</center>
 
