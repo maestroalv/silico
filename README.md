@@ -4,8 +4,8 @@
 <center>Hurt ToolKit is a tool for Testing Hacking not for crime</center>
 </p></font>
 
-### Installication
-# Linux/Ubuntu
+## Installication
+### Linux/Ubuntu
 ``` Linux
 1. sudo apt-get update
 2. sudo apt-get install git
@@ -13,7 +13,7 @@
 4. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
-# Termux (Android)
+### Termux (Android)
 ```
 1. apt update
 2. apt upgrade
@@ -22,14 +22,14 @@
 5. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
-### Usage :
+## Usage :
 ``` Usage
 + python hurt.py
 + Enter Licence
 + Select menu
 ```
 
-### Contact US
+## Contact US
 *Facebook 
 *What'sApp 
 *Github 
