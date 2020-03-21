@@ -1,7 +1,8 @@
 <p align="center"><font color="red" size="6">
   Hurt ToolKit v1.0.1 Beta
-
-<center>Hurt ToolKit is a tool for Testing Hacking not for crime</center>
+  Hurt ToolKit is a tool for Testing Hacking not for crime
+  
+Coded by: LeON
 </p></font>
 
 ## Installication
