@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Hurt ToolKit v1.0.1 Beta
 
-You can use the [editor on GitHub](https://github.com/LeON101-coder/Hurt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hurt ToolKit is a tool for Testing Hacking not for crime
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Installication
+``` Installication
+# Linux/Ubuntu
+1. sudo apt-get update
+2. sudo apt-get install git
+3. sudo apt-get install python
+4. git clone https://github.com/LeON101-coder/Hurt.git
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Termux (Android)
+1. apt update
+2. apt upgrade
+3. pkg install git
+4. pkg install python
+5. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Run
+``` Run
+python hurt.py
+```
 
-### Jekyll Themes
+### Contact US
+*Facebook(https://m.facebook.com/11.01.19.forever)
+*What'sApp(https://api.whatsapp.com/send?phone=6285366745525)
+*Github(https://github.com/LeON101-coder)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeON101-coder/Hurt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-k
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thanks to
+``` Thanks to
+> Indonesian Hurt Security
+```
