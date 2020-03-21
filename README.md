@@ -31,10 +31,10 @@ Coded by: LeON
 ```
 
 ## Contact US
-```
-> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
-> <a href="https://api.whatsapp.com/send?phone=6285366745525&text=Hai+Leon">What'sApp</a>
-```
+
+<b></b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
+<b></b> <a href="https://api.whatsapp.com/send?phone=6285366745525&text=Hai+Leon">What'sApp</a>
+
 
 ### Thanks to
 ``` Thanks to
