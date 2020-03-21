@@ -30,10 +30,10 @@ Coded by: LeON
 + Select menu
 ```
 
-## Contact US
+## Contact Me
 
-<b></b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
-<b></b> <a href="https://api.whatsapp.com/send?phone=6285366745525&text=Hai+Leon">What'sApp</a>
+<b>2.</b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
+<b>1.</b> <a href="https://api.whatsapp.com/send?phone=6285366745525&text=Hai+Leon">What'sApp</a>
 
 
 ### Thanks to
