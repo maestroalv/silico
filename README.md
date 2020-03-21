@@ -34,7 +34,7 @@ Coded by: LeON
 
 <b>1.</b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
 <b>  2.</b> <a href="https://api.whatsapp.com/send?phone=6285366745525">What'sApp</a>
-a
+
 
 ### Thanks to
 ``` Thanks to
