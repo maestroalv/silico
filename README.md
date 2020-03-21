@@ -1,4 +1,6 @@
-## Welcome to Hurt ToolKit v1.0.1 Beta
+<p align="center">
+  # Hurt ToolKit v1.0.1 Beta
+</p>
 
 Hurt ToolKit is a tool for Testing Hacking not for crime
 
@@ -18,17 +20,22 @@ Hurt ToolKit is a tool for Testing Hacking not for crime
 5. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
-### Run
-``` Run
-python hurt.py
+### Usage :
+``` Usage
++ python hurt.py
++ Enter Licence
++ Select menu
 ```
 
 ### Contact US
-*Facebook(https://m.facebook.com/11.01.19.forever)
-*What'sApp(https://api.whatsapp.com/send?phone=6285366745525)
-*Github(https://github.com/LeON101-coder)
+*Facebook (https://m.facebook.com/11.01.19.forever)
+*What'sApp (https://api.whatsapp.com/send?phone=6285366745525)
+*Github (https://github.com/LeON101-coder)
 
 ### Thanks to
 ``` Thanks to
-> Indonesian Hurt Security
+- Indonesian Hurt Security
+- Aqnes
+- F4K3#R00T
+- </FUCK>
 ```
