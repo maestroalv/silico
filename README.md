@@ -31,9 +31,10 @@ Coded by: LeON
 ```
 
 ## Contact US
-*Facebook 
-*What'sApp 
-*Github 
+
+<a href="https://m.facebook.com/leon101.coder">Facebook</a>
+<a href="https://api.whatsapp.com/send?phone=6285366745525&text=Hai+Leon">What'sApp</a>
+
 
 ### Thanks to
 ``` Thanks to
