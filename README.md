@@ -25,6 +25,7 @@ Coded by: LeON
 
 ## Usage :
 ``` Usage
++ cd Hurt
 + python hurt.py
 + Enter Licence
 + Select menu
