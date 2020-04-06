@@ -1,7 +1,7 @@
 <p align="center"><font color="red" size="6">
-  Hurt ToolKit v1.0.1 Beta
+  fakesploit v1.0.1
 
-Hurt ToolKit is a tool for Testing Hacking not for crime  
+ 
 Coded by: LeON
 </p></font>
 
