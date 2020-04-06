@@ -1,8 +1,8 @@
 <p align="center"><font color="red" size="6">
-  fakesploit v1.0.1
+  KNTD v1.0.1
 
  
-Coded by: LeON
+Coded by: LeON | Aqnes
 </p></font>
 
 ## Installication
@@ -11,7 +11,7 @@ Coded by: LeON
 1. sudo apt-get update
 2. sudo apt-get install git
 3. sudo apt-get install python
-4. git clone https://github.com/LeON101-coder/Hurt.git
+4. git clone https://github.com/LeON101-coder/KNTD.git
 ```
 
 ### Termux (Android)
@@ -20,27 +20,24 @@ Coded by: LeON
 2. apt upgrade
 3. pkg install git
 4. pkg install python
-5. git clone https://github.com/LeON101-coder/Hurt.git
+5. git clone https://github.com/LeON101-coder/KNTD.git
 ```
 
 ## Usage :
 ``` Usage
 + cd Hurt
-+ python hurt.py
-+ Enter Licence
-+ Select menu
++ python kntd.py
 ```
 
 ## Contact Me
 
 <b>1.</b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
-<b>  2.</b> <a href="https://api.whatsapp.com/send?phone=6285366745525">What'sApp</a>
 
 
 ### Thanks to
 ``` Thanks to
 - Indonesian Hurt Security
-- Aqnes
+- Mr_ZeuS<?>
 - F4K3#R00T
 - </FUCK>
 ```
