@@ -29,6 +29,9 @@ Coded by: LeON | Aqnes
 + python hurt.py
 ```
 
+## Screenshot :
+<img src="https://raw.githubusercontent.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200409_124144.jpg">
+
 ## Contact Me
 
 <b>1.</b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
