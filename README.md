@@ -1,5 +1,5 @@
 <p align="center"><font color="red" size="6">
-  KNTD v1.0.1
+  Hurt ToolKit v1.0.2
 
  
 Coded by: LeON | Aqnes
@@ -11,7 +11,7 @@ Coded by: LeON | Aqnes
 1. sudo apt-get update
 2. sudo apt-get install git
 3. sudo apt-get install python
-4. git clone https://github.com/LeON101-coder/KNTD.git
+4. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
 ### Termux (Android)
@@ -20,13 +20,13 @@ Coded by: LeON | Aqnes
 2. apt upgrade
 3. pkg install git
 4. pkg install python
-5. git clone https://github.com/LeON101-coder/KNTD.git
+5. git clone https://github.com/LeON101-coder/Hurt.git
 ```
 
 ## Usage :
 ``` Usage
 + cd Hurt
-+ python kntd.py
++ python hurt.py
 ```
 
 ## Contact Me
