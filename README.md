@@ -25,7 +25,7 @@
 ```
 
 ## Screenshot :
-<img src="https://raw.githubusercontent.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200409_124144.jpg">
+![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200409_124144.jpg?raw=true)
 
 ## Contact Me
 
