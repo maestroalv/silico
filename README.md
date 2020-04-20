@@ -1,9 +1,5 @@
 ![alt text](https://github.com/LeON101-coder/Hurt/blob/master/image/ScreenShot110001110111.jpg?raw=true)
 
- 
-Coded by: LeON | Aqnes
-</p></font>
-
 ## Installication
 ### Linux/Ubuntu
 ``` Linux
