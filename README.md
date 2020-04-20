@@ -1,5 +1,5 @@
 <p align="center"><font color="red" size="6">
-  <img src="https://raw.githubusercontent.com/LeON101-coder/Hurt/blob/master/image/ScreenShot110001110111.jpg">
+  ![alt text]<img src="https://raw.githubusercontent.com/LeON101-coder/Hurt/blob/master/image/ScreenShot110001110111.jpg?raw=true)
 
  
 Coded by: LeON | Aqnes
