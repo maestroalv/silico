@@ -1,4 +1,4 @@
-![alt text](https://github.com/LeON101-coder/Hurt/blob/master/image/90431594de32fee66aeca6219ddb5.0.jpg?raw=true)
+![alt text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fee66aeca6219ddb5.0.jpg?raw=true)
 
 ## Installication
 ### Linux/Ubuntu
