@@ -24,7 +24,7 @@
 ## Usage :
 ``` Usage
 + cd Hurt
-+ python hurt.py
++ sh install.sh
 ```
 
 ## Screenshot :
