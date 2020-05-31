@@ -1,6 +1,6 @@
-![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fee66aeca6219ddb5.0.jpg?raw=true)
+![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fe66aeca6219ddb5.0.jpg?raw=true)
 #
-[![Python 3.x.x](https://img.shields.io/badge/python-3.x.x-yellow.svg)](https://www.python.org/)[![Facebook](https://img.shields.io/badge/Facebook-blue.svg)](https://m.facebook.com/leon101.coder)
+[![Python 3.x.x](https://img.shields.io/badge/python-3.x.x-yellow.svg)](https://www.python.org/) [![Hurt](https://img.shields.io/badge/Hurt-ToolKit-red.svg)](https://github.com/LeON101-coder)
 
 
 ## Installication
@@ -31,8 +31,8 @@
 ![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200531_143523.png?raw=true)
 
 ## Contact Me
+[![Facebook](https://img.shields.io/badge/Facebook-blue.svg)](https://m.facebook.com/leon101.coder)
 
-<b>1.</b> <a href="https://m.facebook.com/leon101.coder">Facebook</a>
 
 
 ### Thanks to
