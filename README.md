@@ -28,7 +28,7 @@
 ```
 
 ## Screenshot :
-![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200428_110607.jpg?raw=true)
+![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/Screenshot_20200531_143523.png?raw=true)
 
 ## Contact Me
 
