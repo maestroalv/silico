@@ -1,6 +1,6 @@
 ![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fee66aeca6219ddb5.0.jpg?raw=true)
 #
-[![Python 3.x.x](https://img.shields.io/badge/python-3.x.x-yellow.svg)](https://www.python.org/)
+[![Python 3.x.x](https://img.shields.io/badge/python-3.x.x-yellow.svg)](https://www.python.org/)[![Facebook](https://img.shields.io/badge/Facebook-blue.svg)](https://m.facebook.com/leon101.coder)
 
 
 ## Installication
