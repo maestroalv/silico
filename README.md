@@ -1,4 +1,4 @@
-![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fe66aeca6219ddb5.0.jpg?raw=true)
+![alt_text](https://github.com/LeON101-coder/Hurt/blob/master/image/90499c31594de32fee66aeca6219ddb5.0.jpg?raw=true)
 #
 [![Python 3.x.x](https://img.shields.io/badge/python-3.x.x-yellow.svg)](https://www.python.org/) [![Hurt](https://img.shields.io/badge/Hurt-ToolKit-red.svg)](https://github.com/LeON101-coder)
 
