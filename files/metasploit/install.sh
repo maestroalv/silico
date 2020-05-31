@@ -1,1 +1,0 @@
-apt update && apt upgrade; pkg install python python2; pkg install php; pkg install root-repo; pkg install x11-repo; pkg install unstable-repo; pkg install curl; pkg install ruby; pkg install nano; pkg install figlet; pkg install cowsay; pkg install neofetch; pkg install lolcat; pkg install metasploit
