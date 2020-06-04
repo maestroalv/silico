@@ -28,7 +28,7 @@ import os,sys,string,re,random,json,datetime,urllib3,hashlib
 from time import sleep
 from threading import Thread
 from prompt_toolkit import prompt
-import __init__
+
 from concurrent.futures import ThreadPoolExecutor
 try:
 	from bs4 import BeautifulSoup as cantik
